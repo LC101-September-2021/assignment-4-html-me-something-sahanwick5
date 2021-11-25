@@ -1,1 +1,7 @@
-/* Write your CSS here! */
+p {
+    margin: 0px 15px 0px;
+}
+
+header, main, footer {
+    background-color: white;
+}
