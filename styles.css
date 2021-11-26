@@ -2,6 +2,11 @@ p {
     margin: 0px 15px 0px;
 }
 
+img {
+    width: 400px;
+    height: 100%;
+}
+
 header, main, footer {
     background-color: white;
 }
