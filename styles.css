@@ -1,12 +1,57 @@
+/* Element */
 p {
-    margin: 0px 15px 0px;
+    margin: 5px 30px 5px;
 }
-
 img {
     width: 400px;
     height: 100%;
+    margin: 10px 50px 10px;
+}
+body {
+    margin: 0px 8px 0px;
+    display: block;
 }
 
-header, main, footer {
-    background-color: white;
+/* Class */
+.Subheading {
+    background-color: black;
+    color: white;
+    margin: 30px 0px 0px;
+    padding: 0px 5px 0px;
+}
+.Schedule {
+    margin: 10px 25px 10px;
+}
+.Day {
+    margin: 10px 0px 0px;
+}
+.Indent {
+    margin: 5px 30px 5px;
+}
+.funParagraph {
+    color: green;
+}
+
+/* ID */
+#Tires {
+    border-style: solid;
+    border-color: red;
+}
+#SoftTire {
+    color: red;
+}
+#MedTire {
+    color: rgb(200, 185, 0);
+}
+#HardTire {
+    color: grey;
+}
+#mainHeading {
+    color: red;
+    padding: 5px 15px 5px;
+}
+#Footer {
+    background-color: red;
+    color: white;
+    margin: 30px 0px 0px;
 }
